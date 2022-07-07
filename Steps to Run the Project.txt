@@ -1,0 +1,8 @@
+Steps to Run the Project:
+--------------------------------
+Step 1: Install python and anaconda.
+Step 2: Run all the cells in Notebook.ipny in Jupyter Notebook.
+Step 3: Open the command prompt from the path where the project file is loctaed.
+Step 4: Run the command "python app.py".
+Step 5: Copy the Ip address of the URL from the command prompt after running the command.
+Step 6 : Paste the URL in any browser and you are ready to use the website.
